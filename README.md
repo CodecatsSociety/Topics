@@ -1,14 +1,16 @@
-## Topics
+# Topics
+
+## For First Semester
 
 1. C++ [C utna jitna class mae ho rha hai] (Upto Array)
 > Difference in C and C++ (as beginner)
 
-|C|C++|
-|---|---|
-|printf|cout|
-|scanf|cin|
+ |C|C++|
+ |---|---|
+ |printf|cout|
+ |scanf|cin|
 
-Learn Important Patterns [Link](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/)
+- Learn Important Patterns [Link](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/)
 
 2. Pointers (Abdul Bari)
     - Saurabh Shukla (My Sir G)
@@ -19,16 +21,16 @@ Learn Important Patterns [Link](https://takeuforward.org/strivers-a2z-dsa-course
 5. Arrays, passing arrays in function, returning arrays.
 6. Dynamic Memory Allocation (Theory)
 7. DataTypes (Abdul Bari)
-8. **Hacker Rank - Only for Beginners and Non CS Background Students**
+8. **Hacker Rank**
     - Problem Solving - [Link](https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving)
     <img src="https://user-images.githubusercontent.com/35686407/187349223-eda82629-eff9-4b15-b551-fa08d4884406.png" height="250" width="500">
     
     - Start with Easy and Medium
-        - Do this until you make 4 to 5 stars
+        - Do this until you make 4 to 5 stars in `**Problem Solving**`
         - Try to make it within 1 or 1.5 month
     - Skip Hard Questions for now
 
-Simultaneously, Techniques to Learn with hackerrank (for beginners) and for others start learning Techniqeues written below:
+- Simultaneously, Techniques to Learn with hackerrank (for beginners) and for others start learning Techniqeues written below:
 
 9. Basic Maths
     - [Link](https://docs.google.com/document/d/1AoozFf7npQG1BEeOPMwhBafOjT68xvGLvGiPiJ0in00/edit?usp=sharing)
@@ -57,8 +59,8 @@ Simultaneously, Techniques to Learn with hackerrank (for beginners) and for othe
         - Codeforces is Prefrable
     - Leetcode [Link](https://leetcode.com/contest/) 
         - Compulsary
-        - Every 2nd Saturday (8 PM)
-        - Every Sunday (8 AM)
+        - Every 2nd Saturday Contest (8 PM)
+        - Every Sunday Contest (8 AM)
 17. PreComputation Techniques
     - [Link](https://www.youtube.com/watch?v=efET3lxYCkM&list=PLauivoElc3ginp_2p2cX5i-jrBI32xGuX&ab_channel=Luv)
 18. Some CP Shorts
