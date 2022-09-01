@@ -2,8 +2,12 @@
 
 ## For First Semester
 
-1. C++ [C utna jitna class mae ho rha hai] (Upto Array)
-> Difference in C and C++ (as beginner)
+1. C++ [C utna jitna class mae ho rha hai] 
+ - (do Upto Array)
+ - skip object oriented programming for now
+ - [Link](https://drive.google.com/drive/u/2/folders/1Ava-AN_2tJU_ac-xWH3JMlkjDYGIUtBX)
+ - Folders 1 to 10, Folder 22,23,25,26
+> Difference in C and C++ (as beginner) to start (minor changes you find to switch between c to c++)
 
  |C|C++|
  |---|---|
